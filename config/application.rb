@@ -51,13 +51,7 @@ module App
     config.app_generators.scaffold_controller = :scaffold_controller
 
     
-  end
-end
-
-
-
-
-
+ 
 
   end
 end

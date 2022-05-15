@@ -1,8 +1,8 @@
 class ApiController < ApplicationController
 	class PolyController < ApiController
 		def index
-            @poly = poly.all
-          render json: @poly.to_json
+            @enter = enter.all
+          render json: @enter.to_json
   end
   
   end
